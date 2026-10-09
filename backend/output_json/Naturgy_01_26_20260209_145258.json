@@ -1,0 +1,27 @@
+{
+  "nombre_archivo": "Naturgy_01_26.pdf",
+  "ruta_archivo": "D:\\GitHub\\photo-finance\\backend\\pdfs\\Naturgy_01_26.pdf",
+  "num_paginas": 4,
+  "titulo": null,
+  "autor": null,
+  "fecha_creacion": null,
+  "paginas": [
+    {
+      "numero_pagina": 1,
+      "contenido": ""
+    },
+    {
+      "numero_pagina": 2,
+      "contenido": ""
+    },
+    {
+      "numero_pagina": 3,
+      "contenido": ""
+    },
+    {
+      "numero_pagina": 4,
+      "contenido": ""
+    }
+  ],
+  "fecha_procesamiento": "2026-02-09T14:52:58.259638"
+}
